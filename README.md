@@ -19,10 +19,10 @@ Please follow these instruction to download and install
 [Node Package Manager(npm) and Node.js](https://www.npmjs.com/get-npm). <br>
 
 ### Starting the ReckonChallenge project
-After completing the installations, navigate to `ReckonChallenge/` directory and give command <br>
-`npm intall`<br>
+After completing the installations, navigate to `ReckonChallenge` directory and give command <br>
+`npm install`<br>
 This would install all the package dependencies for the server from `package.json file` in the `node_modules` directory. <br>  
 
-Once the installation has finished, navigate to `ReckonChallenge/server.js` and verify the server port address. By default the port number would be 3000, however it can be changed as per requirement. Start the server using command: <br>
+Once the installation has finished, navigate to `ReckonChallenge/config.js` and verify the server port address. By default the port number would be 3000, however it can be changed as per requirement. Start the server using command: <br>
 `node server.js`<br>
 If the port has not been changed, by default, the server should start at `http://localhost:3000` <br>
