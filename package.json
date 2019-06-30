@@ -1,0 +1,29 @@
+{
+  "name": "reckon",
+  "version": "1.0.0",
+  "description": "Configure API endpoints to display divisors of specified number in divisorInfo API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patilmayur5572/ReckonChallenge.git"
+  },
+  "keywords": [
+    "API",
+    "Express",
+    "NodeJS"
+  ],
+  "author": "Mayur Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patilmayur5572/ReckonChallenge/issues"
+  },
+  "homepage": "https://github.com/patilmayur5572/ReckonChallenge#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
