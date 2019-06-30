@@ -1,5 +1,7 @@
 const http = require('http');
 
+const app = require('./app');
+
 //To get the configuration data like Port Number.
 const config = require('./config');
 
